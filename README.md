@@ -1,5 +1,4 @@
 ## Hi ! Moi c'est Pahola Lago 
-![Banniere](![WhatsApp Image 2026-02-22 at 11 56 40 PM](https://github.com/user-attachments/assets/0133c715-45d3-46d5-a89b-1f19517ea962)
 
 
 ## Junior Fullstack Dev | IA Enthusiast
