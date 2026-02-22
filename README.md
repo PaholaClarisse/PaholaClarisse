@@ -1,6 +1,8 @@
 ## Hi ! Moi c'est Pahola Lago 
+![Banniere](![WhatsApp Image 2026-02-22 at 11 56 40 PM](https://github.com/user-attachments/assets/0133c715-45d3-46d5-a89b-1f19517ea962)
 
-## Junior Fullstack Junior | IA Enthusiast
+
+## Junior Fullstack Dev | IA Enthusiast
 Je suis Etudiante en informatique a l'université de Yaounde I. Motivée et engagée,je sui déterminée a mettre la technologie au service de l'humain a travers des solutions innovantes.
 
 ### A propos de moi
