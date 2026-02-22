@@ -1,5 +1,5 @@
 ## Hi ! Moi c'est Pahola Lago 
-![WhatsApp Image 2026-02-22 at 11 56 40 PM](https://github.com/user-attachments/assets/b8d33607-6df1-45f0-b0cc-50836f821b43)
+![WhatsApp Image 2026-02-23 at 12 08 29 AM](https://github.com/user-attachments/assets/968dc941-2e9a-4d36-abce-4f45437ee711)
 
 
 ## Junior Fullstack Dev | IA Enthusiast
