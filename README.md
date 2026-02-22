@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi ! Moi c'est Pahola Lago 
 
-<!--
-**PaholaClarisse/PaholaClarisse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Fullstack Junior | IA Enthusiast
+Je suis Etudiante en informatique a l'université de Yaounde I. Motivée et engagée,je sui déterminée a mettre la technologie au service de l'humain a travers des solutions innovantes.
 
-Here are some ideas to get you started:
+### A propos de moi
+- Etudiante passionnée par l'ingenierie logicielle.
+- Actuellement en train de me former en python et dans le developpement web.
+- Tres interessée par l'intelligence artificielle et son impact concret.
+- Objectif: contribuer a des projets open-source et collaborer sur des solutions efficaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+**langages & web :**
+![Python](https://img.shields.io)
+![HTML5](https://img.shields.io)
+![CSS3](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+
+**Outils :**
+![Git](https://img.shields.io)
+![GitHub](https://img.shields.io)
+
+### Mes Statistiques GitHub
+![Stats de Pahola](https://github-readme-stats.versel.app)
+
+### Me contacter
+-**LinkedIn** : https://www.linkedin.com/in/pahola-martine-lago-5ba013348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+-**EMail** : paholamartinelagos@gmail.com
+
+
+
+
+
+  
+
