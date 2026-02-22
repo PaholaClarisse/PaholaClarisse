@@ -26,7 +26,7 @@ Je suis **Etudiante en informatique à l'université de Yaounde I**. Motivée et
 ![Stats de Pahola](https://github-readme-stats.versel.app)
 
 ### Me contacter
--**LinkedIn** : https://www.linkedin.com/in/pahola-martine-lago-5ba013348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+-**LinkedIn** : https://www.linkedin.com/in/pahola-martine-lago-5ba013348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app <br>
 -**EMail** : paholamartinelagos@gmail.com
 
 
