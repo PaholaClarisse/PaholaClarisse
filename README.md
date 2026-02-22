@@ -6,7 +6,7 @@
 Je suis **Etudiante en informatique à l'université de Yaounde I**. Motivée et engagée,je suis déterminée à mettre la technologie au service de l'humain à travers des solutions innovantes.
 
 ### A propos de moi
-- Etudiante passionnée par l'ingenierie logicielle.
+- Etudiante passionnée par l'ingénierie logicielle.
 - Actuellement en train de me former en **python** et dans le **developpement web**.
 - Très intéressée par **l'intelligence artificielle** et son impact concret.
 - Objectif: contribuer a des projets open-source et collaborer sur des solutions efficaces.
