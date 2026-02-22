@@ -3,12 +3,12 @@
 
 
 ## Junior Fullstack Dev | IA Enthusiast
-Je suis Etudiante en informatique a l'université de Yaounde I. Motivée et engagée,je sui déterminée a mettre la technologie au service de l'humain a travers des solutions innovantes.
+Je suis **Etudiante en informatique à l'université de Yaounde I**. Motivée et engagée,je suis déterminée à mettre la technologie au service de l'humain à travers des solutions innovantes.
 
 ### A propos de moi
 - Etudiante passionnée par l'ingenierie logicielle.
-- Actuellement en train de me former en python et dans le developpement web.
-- Tres interessée par l'intelligence artificielle et son impact concret.
+- Actuellement en train de me former en **python** et dans le **developpement web**.
+- Très intéressée par **l'intelligence artificielle** et son impact concret.
 - Objectif: contribuer a des projets open-source et collaborer sur des solutions efficaces.
 
 ### Tech stack
